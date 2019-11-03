@@ -1,0 +1,26 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    // Set the default
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 2,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "SynthWave '84",
+    "vscode_custom_css.imports": [
+      "file:///Users/vellerbauer/synthwave84.css"
+    ],
+    "workbench.statusBar.feedback.visible": false,
+    "material-icon-theme.folders.theme": "specific",
+    "eslint.autoFixOnSave": true,
+    "editor.formatOnSave": true
+  }
